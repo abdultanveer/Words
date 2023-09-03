@@ -30,6 +30,7 @@ import com.example.wordsapp.databinding.FragmentWordListBinding
  */
 class WordListFragment : Fragment() {
 
+
     /**
      * Provides global access to these variables from anywhere in the app
      * via DetailListFragment.<variable> without needing to create
